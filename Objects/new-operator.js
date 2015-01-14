@@ -29,4 +29,10 @@ for(var i = 0; i < SiliconValley.length; i++){
     console.log(informacoes)
 }
 
-console.log(informacoes);
+console.log(informacoes.criado);
+console.log(informacoes.ano);
+console.log(informacoes.elenco);
+console.log(informacoes.pais);
+console.log(informacoes.genero);
+console.log(informacoes.duracao);
+console.log(informacoes.descricao);
